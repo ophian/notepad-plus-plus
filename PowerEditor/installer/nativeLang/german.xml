@@ -281,29 +281,29 @@
                     <Item id="45011" name="Konv&amp;ertiere zu UTF-8"/>
                     <Item id="45012" name="Konve&amp;rtiere zu UCS-2 Big Endian"/>
                     <Item id="45013" name="Konver&amp;tiere zu UCS-2 Little Endian"/>
-                    <Item id="44011" name="Benutzerdefinierte Spra&amp;che …"/>        <!-- kommt im englischen nicht oder nicht mehr vor -->
-                    <Item id="44012" name="Zeilennummernrand ausb&amp;lenden"/>        <!-- kommt im englischen nicht oder nicht mehr vor -->
-                    <Item id="44013" name="Lesezeichenrand ausb&amp;lenden"/>        <!-- kommt im englischen nicht oder nicht mehr vor -->
-                    <Item id="44014" name="Codefaltung ausb&amp;lenden"/>            <!-- kommt im englischen nicht oder nicht mehr vor -->
-                    <Item id="47008" name="In&amp;halt …"/>                    <!-- kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="44011" name="Benutzerdefinierte Spra&amp;che …"/>        kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="44012" name="Zeilennummernrand ausb&amp;lenden"/>        kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="44013" name="Lesezeichenrand ausb&amp;lenden"/>        kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="44014" name="Codefaltung ausb&amp;lenden"/>            kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="47008" name="In&amp;halt …"/>                    kommt im englischen nicht oder nicht mehr vor -->
 
                     <Item id="10001" name="In zweite Ansicht &amp;verschieben"/>
                     <Item id="10002" name="In zweite Ansicht &amp;duplizieren"/>
                     <Item id="10003" name="In &amp;neue Instanz verschieben"/>
                     <Item id="10004" name="In neue Instan&amp;z duplizieren"/>
 
-                    <Item id="45060" name="Big5 (Traditionell)"/>            <!-- kommt im englischen nicht oder nicht mehr vor -->
-                    <Item id="45061" name="GB2312 (Vereinfacht)"/>            <!-- kommt im englischen nicht oder nicht mehr vor -->
-                    <Item id="45054" name="OEM 861: Isländisch"/>            <!-- kommt im englischen nicht oder nicht mehr vor -->
-                    <Item id="45057" name="OEM 865: Nordisch"/>            <!-- kommt im englischen nicht oder nicht mehr vor -->
-                    <Item id="45053" name="OEM 860: Portugiesisch"/>        <!-- kommt im englischen nicht oder nicht mehr vor -->
-                    <Item id="45056" name="OEM 863: Französisch"/>            <!-- kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="45060" name="Big5 (Traditionell)"/>            kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="45061" name="GB2312 (Vereinfacht)"/>            kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="45054" name="OEM 861: Isländisch"/>            kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="45057" name="OEM 865: Nordisch"/>            kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="45053" name="OEM 860: Portugiesisch"/>        kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="45056" name="OEM 863: Französisch"/>            kommt im englischen nicht oder nicht mehr vor -->
 
-                    <Item id="46033" name="Assembler"/>                        <!-- kommt im englischen nicht oder nicht mehr vor -->
-                    <Item id="46019" name="MS-INI-Datei"/>            <!-- kommt im englischen nicht oder nicht mehr vor -->
-                    <Item id="46015" name="MS-DOS-Stil"/>            <!-- kommt im englischen nicht oder nicht mehr vor -->
-                    <Item id="46016" name="Normaler Text"/>            <!-- kommt im englischen nicht oder nicht mehr vor -->
-                    <Item id="46017" name="Ressourcen-Datei"/>        <!-- kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="46033" name="Assembler"/>                        kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="46019" name="MS-INI-Datei"/>            kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="46015" name="MS-DOS-Stil"/>            kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="46016" name="Normaler Text"/>            kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="46017" name="Ressourcen-Datei"/>        kommt im englischen nicht oder nicht mehr vor -->
 
                     <Item id="46001" name="&amp;Stile …"/>
                     <Item id="46150" name="Eigene Sprache &amp;definieren …"/>
@@ -407,13 +407,13 @@
                 <Item id="1641" name="Alle in aktiver &amp;Datei suchen"/>
                 <Item id="1686" name="Transparenz"/>
                 <Item id="1703" name="&amp;. findet \r und \n"/>
-                <Item id="1627" name="Unten"/>                <!-- kommt im englischen nicht oder nicht mehr vor -->
-                <Item id="1637" name="In Dateien suchen"/>        <!-- kommt im englischen nicht oder nicht mehr vor -->
-                <Item id="1640" name="Umschaltdialog"/>            <!-- kommt im englischen nicht oder nicht mehr vor -->
+<!--                 <Item id="1627" name="Unten"/>                kommt im englischen nicht oder nicht mehr vor -->
+<!--                 <Item id="1637" name="In Dateien suchen"/>        kommt im englischen nicht oder nicht mehr vor -->
+<!--                 <Item id="1640" name="Umschaltdialog"/>            kommt im englischen nicht oder nicht mehr vor -->
             </Find>
 
             <FindCharsInRange title="Suche nach Zeichencodes">
-                <Item id="-1"   name="–"/>                <!-- kommt im englischen nicht oder nicht mehr vor -->
+<!--                 <Item id="-1"   name="–"/>                kommt im englischen nicht oder nicht mehr vor -->
                 <Item id="2"    name="S&amp;chließen"/>
                 <Item id="2901" name="&amp;Nicht-ASCII-Zeichen (128–255)"/>
                 <Item id="2902" name="&amp;ASCII-Zeichen (0–127)"/>
@@ -440,7 +440,7 @@
                 <Item id="1"    name="&amp;Ausführen"/>
                 <Item id="2"    name="A&amp;bbrechen"/>
                 <Item id="1904" name="&amp;Speichern"/>
-                <Item id="1901" name=".&amp;.."/>                <!-- kommt im englischen nicht oder nicht mehr vor -->
+<!--                 <Item id="1901" name=".&amp;.."/>                kommt im englischen nicht oder nicht mehr vor -->
             </Run>
 
             <MD5FromFilesDlg title="Erstelle MD5-Hashwert aus Dateien">
@@ -456,7 +456,7 @@
             </MD5FromTextDlg>
 
             <StyleConfig title="Stile">
-                <Item id="1"    name="Übernehmen"/>                <!-- kommt im englischen nicht oder nicht mehr vor -->
+<!--                 <Item id="1"    name="Übernehmen"/>                kommt im englischen nicht oder nicht mehr vor -->
                 <Item id="2"    name="Abbrechen"/>
                 <Item id="2301" name="Speichern &amp;&amp; Schließen"/>
                 <Item id="2303" name="Transparenz"/>
@@ -583,7 +583,7 @@
                     <Item id="22622" name="Stil"/>
                 </Keywords>
                 <Comment title="Kommentare &amp;&amp; Zahlen">
-                    <Item id="23002" name="Am Zeilenanfang Zeilenkommentar erzwingen"/>        <!-- kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="23002" name="Am Zeilenanfang Zeilenkommentar erzwingen"/>        kommt im englischen nicht oder nicht mehr vor -->
                     <Item id="23003" name="Position von Zeilenkommentaren"/>
                     <Item id="23004" name="Überall erlauben"/>
                     <Item id="23005" name="Nur am Zeilenanfang"/>
@@ -745,9 +745,9 @@
                     <Item id="6413" name="Verzeichnis beim Öffnen/Speichern"/>
                     <Item id="6414" name="Wie aktuelle Datei"/>
                     <Item id="6415" name="Letztes Verzeichnis merken"/>
-                    <Item id="6430" name="Neuen Stilspeicherungsdialog benutzen (ohne Dateierweiterungen)"/>    
+                    <Item id="6430" name="Neuen Stilspeicherungsdialog benutzen (ohne Dateierweiterungen)"/>
                     <Item id="6431" name="Alle Dateien im jeweiligen Verzeichnis öffnen anstelle des Start-Verzeichnisses"/>
-                    <Item id="6418" name="…"/>        <!-- kommt im englischen nicht oder nicht mehr vor -->
+<!--                     <Item id="6418" name="…"/>        kommt im englischen nicht oder nicht mehr vor -->
                 </DefaultDir>
 
                 <FileAssoc title="Dateiverknüpfungen">
